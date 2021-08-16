@@ -1,0 +1,40 @@
+.container-fluid{
+	display: flex;
+	justify-content: space-between;
+	padding: 30px 30px;
+	margin: 20px;
+}
+
+.btn{
+	background-color: lightseagreen;
+	color: #fff;
+	border-radius: 1.2;
+	padding: 5px 10px;
+}
+
+.box{
+	background-color: mintcream;
+	padding: 10px;
+	color: black;
+	margin: 20px;
+	border: 1px solid #fff;
+	box-shadow: 0 5px 35px rgba(0, 0, 0, 0.1);
+
+}
+
+img{
+	position: relative;
+	width: 100%;
+	padding: 10px;
+}
+
+.heading{
+	font: #828582 ;
+	margin: 20px;
+	justify-content: center;
+}
+
+.title{
+	padding: 3px;
+	justify-content: center;
+}
